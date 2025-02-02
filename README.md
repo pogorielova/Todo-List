@@ -7,7 +7,7 @@
 
 ## 📌 Overview
 
-The **Todo List** allows users to add, delete, mark tasks as completed, update the title. Users also can filter the todos by status, mark all as completed with one click, or delete all copmleted tasks.
+The **Todo List** allows users to add, delete, mark tasks as completed, update the title. Users also can filter the todos by status, mark all as completed with one click, or delete all completed tasks.
 
 ## ✨ Features
 
